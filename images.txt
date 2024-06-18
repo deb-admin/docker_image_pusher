@@ -1,2 +1,1 @@
-denghongcai/forsaken-mail
-vitotp/centos7.6
+vitotp/centos7.6:latest
