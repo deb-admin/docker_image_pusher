@@ -1,1 +1,2 @@
-vitotp/centos7.6:latest
+#vitotp/centos7.6:latest
+altariz/centos:latest
