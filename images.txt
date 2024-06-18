@@ -1,1 +1,1 @@
-how2j/centos7_tools:latest
+centos:7.6
